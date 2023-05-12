@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: longitudinal-Wasserstein-brainMRI
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Anuja
+    family-names: Sharma
+    orcid: 'https://orcid.org/0000-0002-1648-6282'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/asharmaphd/longitudinal-Wasserstein-brainMRI/
+keywords:
+  - Mixed effect model
+  - 'Longitudinal '
+  - brain stroke
+  - Wasserstein distance
+  - NODDI diffusion MRI
